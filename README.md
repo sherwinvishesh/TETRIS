@@ -11,7 +11,7 @@ To run the Tetris game, you need to have Java installed on your system. This gam
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/TETRIS.git
+   git clone https://github.com/sherwinvishesh/TETRIS.git
    cd TETRIS
    ```
 2. **Compile the Java files :**
